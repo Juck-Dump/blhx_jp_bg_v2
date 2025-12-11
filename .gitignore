@@ -1,4 +1,9 @@
-.venv
 .python-version
+.venv
+__pycache__/
 pyproject.toml
 uv.lock
+dist
+build
+*.spec
+*.pyc
